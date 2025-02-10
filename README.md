@@ -29,7 +29,7 @@ The CNN architecture includes:
 
 ### Model Structure:
 <p align="center">
-  <img src="https://github.com/ShaunakChorge-BTAI/CNN-Plastic-Waste-Classification/blob/main/Images/CNN-Architecture.jpg" style="width:80%;">
+  <img src="https://github.com/hardikksankhla/CNN-Plastic-Waste-Classification/blob/main/Images/CNN-Architecture.jpg" style="width:80%;">
 </p>
 
 ## Model Deployment  
